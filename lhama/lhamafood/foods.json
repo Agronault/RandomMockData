@@ -1,0 +1,44 @@
+{
+    "request": [
+        {
+            "id": 1,
+            "name": "Guacamole Padrão",
+            "description": "Guacamole padrão, nem nada de especial",
+            "imageUrl": "https://i.panelinha.com.br/i1/bk-6619-guacamole.webp",
+            "price": 9.90,
+            "protein": 4,
+            "calories": 150,
+            "carbs": 30
+        },
+        {
+            "id": 2,
+            "name": "Guacamole com Nachos",
+            "description": "Guacamole com nachos, incrível",
+            "imageUrl": "https://img.cybercook.com.br/imagens/receitas/493/guacamole-com-carne-moida-840x480.jpg?q=75",
+            "price": 19.90,
+            "protein": 10,
+            "calories": 190,
+            "carbs": 70
+        },
+        {
+            "id": 3,
+            "name": "Guacamole Brasileira",
+            "description": "A autêntica guacamole brasileira",
+            "imageUrl": "https://img.taste.com.au/w1MyLkW_/taste/2010/01/guacamole-118367-2.jpg",
+            "price": 29.90,
+            "protein": 25,
+            "calories": 240,
+            "carbs": 90
+        },
+        {
+            "id": 4,
+            "name": "Guacamole Bruta",
+            "description": "Muito bruta grrrrrrr cuidado ela vai te bater",
+            "imageUrl": "https://www.goya.com/media/3968/mexican-guacamole.jpg?quality=80",
+            "price": 15.90,
+            "protein": 90,
+            "calories": 590,
+            "carbs": 150
+        }
+    ]
+}
